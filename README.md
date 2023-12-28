@@ -17,7 +17,7 @@ Integrar sistemas de soporte al cliente eficientes, como chats en línea o asist
 ## Planteamiento del Problema:
 #### El nuevo banco requiere una plataforma digital sólida que no solo brinde servicios bancarios en línea, sino que también ofrezca una experiencia segura, fácil y completa para sus usuarios. La ausencia de esta plataforma puede generar una falta de competitividad en un entorno financiero cada vez más digitalizado, resultando en la pérdida de clientes potenciales y la incapacidad para satisfacer las demandas del mercado actual.
 
-##Alcance del Proyecto:
+## Alcance del Proyecto:
 #### El proyecto cubrirá desde la concepción hasta la implementación inicial del sitio web del nuevo banco. Incluirá el diseño, desarrollo, pruebas y lanzamiento de la plataforma, así como la integración con sistemas de seguridad y bases de datos necesarios para el funcionamiento de los servicios financieros en línea. No se abordarán aspectos operativos internos del banco que no estén directamente relacionados con la interfaz y la experiencia del usuario en el sitio web.
 
 ## Justificación:
